@@ -1,0 +1,1 @@
+{"uuid":"c2c33701-8ba7-47d2-bf2d-4fda92f69f00","name":"regiontest.VerifyAddFunctionality","start":1526883027750,"stop":1526883040672,"children":["dddf07ed-1499-4f49-be0b-0151db00cde9"],"befores":[{"name":"setupEnv","status":"passed","stage":"finished","description":"","start":1526883027775,"stop":1526883032327}]}

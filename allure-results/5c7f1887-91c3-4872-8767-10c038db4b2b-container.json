@@ -1,0 +1,1 @@
+{"uuid":"5c7f1887-91c3-4872-8767-10c038db4b2b","name":"fatestest.VerifyMandatoryFields","start":1524810486925,"stop":1524810536813,"children":["1f2eb41c-ce79-4874-ae96-25f10d37330d"],"befores":[{"name":"setupEnv","status":"passed","stage":"finished","description":"","start":1524810505055,"stop":1524810507053}]}

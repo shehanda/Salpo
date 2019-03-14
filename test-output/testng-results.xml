@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="regiontest" duration-ms="79467" started-at="2018-06-12T12:00:16Z" finished-at="2018-06-12T12:01:35Z">
+    <groups>
+    </groups>
+    <test name="Chrome" duration-ms="79467" started-at="2018-06-12T12:00:16Z" finished-at="2018-06-12T12:01:35Z">
+      <class name="regiontest.VerifyAddFunctionality">
+        <test-method status="PASS" signature="setupEnv(java.lang.String)[pri:0, instance:regiontest.VerifyAddFunctionality@2f9a01c1]" name="setupEnv" is-config="true" duration-ms="4487" started-at="2018-06-12T17:30:16Z" finished-at="2018-06-12T17:30:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupEnv -->
+        <test-method status="PASS" signature="loadUrl()[pri:0, instance:regiontest.VerifyAddFunctionality@2f9a01c1]" name="loadUrl" duration-ms="27398" started-at="2018-06-12T17:30:20Z" finished-at="2018-06-12T17:30:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadUrl -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:regiontest.VerifyAddFunctionality@2f9a01c1]" name="quit" is-config="true" duration-ms="2091" started-at="2018-06-12T17:31:30Z" finished-at="2018-06-12T17:31:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:regiontest.VerifyCodeIsUnique@b968a76]" name="quit" is-config="true" duration-ms="753" started-at="2018-06-12T17:31:32Z" finished-at="2018-06-12T17:31:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:regiontest.VerifyCopyFunctionality@21aa6d6c]" name="quit" is-config="true" duration-ms="1152" started-at="2018-06-12T17:31:33Z" finished-at="2018-06-12T17:31:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:regiontest.VerifyDeleteFunctionality@73ff4fae]" name="quit" is-config="true" duration-ms="783" started-at="2018-06-12T17:31:34Z" finished-at="2018-06-12T17:31:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:regiontest.VerifyEditFunctionality@4baf352a]" name="quit" is-config="true" duration-ms="897" started-at="2018-06-12T17:31:34Z" finished-at="2018-06-12T17:31:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- regiontest.VerifyAddFunctionality -->
+      <class name="regiontest.VerifyDeleteFunctionality">
+        <test-method status="PASS" signature="setupEnv(java.lang.String)[pri:0, instance:regiontest.VerifyDeleteFunctionality@73ff4fae]" name="setupEnv" is-config="true" duration-ms="4279" started-at="2018-06-12T17:31:20Z" finished-at="2018-06-12T17:31:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupEnv -->
+        <test-method status="PASS" signature="loadUrl()[pri:0, instance:regiontest.VerifyDeleteFunctionality@73ff4fae]" name="loadUrl" duration-ms="5046" started-at="2018-06-12T17:31:25Z" finished-at="2018-06-12T17:31:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadUrl -->
+      </class> <!-- regiontest.VerifyDeleteFunctionality -->
+      <class name="regiontest.VerifyCodeIsUnique">
+        <test-method status="PASS" signature="setupEnv(java.lang.String)[pri:0, instance:regiontest.VerifyCodeIsUnique@b968a76]" name="setupEnv" is-config="true" duration-ms="2757" started-at="2018-06-12T17:30:48Z" finished-at="2018-06-12T17:30:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupEnv -->
+        <test-method status="PASS" signature="loadUrl()[pri:0, instance:regiontest.VerifyCodeIsUnique@b968a76]" name="loadUrl" duration-ms="6356" started-at="2018-06-12T17:30:51Z" finished-at="2018-06-12T17:30:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadUrl -->
+      </class> <!-- regiontest.VerifyCodeIsUnique -->
+      <class name="regiontest.VerifyEditFunctionality">
+        <test-method status="PASS" signature="setupEnv(java.lang.String)[pri:0, instance:regiontest.VerifyEditFunctionality@4baf352a]" name="setupEnv" is-config="true" duration-ms="4866" started-at="2018-06-12T17:30:57Z" finished-at="2018-06-12T17:31:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupEnv -->
+        <test-method status="PASS" signature="loadUrl()[pri:0, instance:regiontest.VerifyEditFunctionality@4baf352a]" name="loadUrl" duration-ms="6679" started-at="2018-06-12T17:31:02Z" finished-at="2018-06-12T17:31:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadUrl -->
+      </class> <!-- regiontest.VerifyEditFunctionality -->
+      <class name="regiontest.VerifyCopyFunctionality">
+        <test-method status="PASS" signature="setupEnv(java.lang.String)[pri:0, instance:regiontest.VerifyCopyFunctionality@21aa6d6c]" name="setupEnv" is-config="true" duration-ms="5150" started-at="2018-06-12T17:31:09Z" finished-at="2018-06-12T17:31:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupEnv -->
+        <test-method status="PASS" signature="loadUrl()[pri:0, instance:regiontest.VerifyCopyFunctionality@21aa6d6c]" name="loadUrl" duration-ms="6667" started-at="2018-06-12T17:31:14Z" finished-at="2018-06-12T17:31:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadUrl -->
+      </class> <!-- regiontest.VerifyCopyFunctionality -->
+    </test> <!-- Chrome -->
+  </suite> <!-- regiontest -->
+</testng-results>

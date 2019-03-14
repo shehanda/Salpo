@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [mobs]" parallel="none">
+  <parameter name="browser" value="chrome"/>
+  <test name="Chrome(failed)" parallel="none">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="mobs.VerifyEditFunctionality">
+        <methods>
+          <include name="loadUrl"/>
+          <include name="quit"/>
+          <include name="setupEnv"/>
+        </methods>
+      </class> <!-- mobs.VerifyEditFunctionality -->
+    </classes>
+  </test> <!-- Chrome(failed) -->
+</suite> <!-- Failed suite [mobs] -->

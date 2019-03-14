@@ -1,0 +1,1 @@
+{"uuid":"0bc43ea7-bfc5-48cc-b0c3-5406794931d7","name":"fatestest.VerifyDeleteFunctionality","start":1524810101057,"stop":1524810165169,"children":["6970fe1b-8f47-474f-b6c1-cfe2d2865dce"],"befores":[{"name":"setupEnv","status":"passed","stage":"finished","description":"","start":1524810147769,"stop":1524810151469}]}

@@ -1,0 +1,1 @@
+{"uuid":"43dee0a0-0cb2-4fa6-822d-3baa66fa23ba","name":"mobstest.VerifyCopyFunctionality","start":1527076763330,"stop":1527076771909,"children":["4c31ea66-4e9c-47b9-9d3c-a63c5f46ca38"],"befores":[{"name":"setupEnv","status":"passed","stage":"finished","description":"","start":1527076763351,"stop":1527076767028}]}

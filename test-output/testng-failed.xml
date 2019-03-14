@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [regiontest]" parallel="none">
+  <parameter name="browser" value="chrome"/>
+  <test name="Chrome(failed)" parallel="none">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="regiontest.VerifyCodeIsUnique">
+        <methods>
+          <include name="setupEnv"/>
+          <include name="quit"/>
+          <include name="loadUrl"/>
+        </methods>
+      </class> <!-- regiontest.VerifyCodeIsUnique -->
+      <class name="regiontest.VerifyEditFunctionality">
+        <methods>
+          <include name="loadUrl"/>
+          <include name="setupEnv"/>
+          <include name="quit"/>
+        </methods>
+      </class> <!-- regiontest.VerifyEditFunctionality -->
+      <class name="regiontest.VerifyCopyFunctionality">
+        <methods>
+          <include name="quit"/>
+          <include name="loadUrl"/>
+          <include name="setupEnv"/>
+        </methods>
+      </class> <!-- regiontest.VerifyCopyFunctionality -->
+      <class name="regiontest.VerifyAddFunctionality">
+        <methods>
+          <include name="setupEnv"/>
+          <include name="loadUrl"/>
+          <include name="quit"/>
+        </methods>
+      </class> <!-- regiontest.VerifyAddFunctionality -->
+      <class name="regiontest.VerifyDeleteFunctionality">
+        <methods>
+          <include name="quit"/>
+          <include name="loadUrl"/>
+          <include name="setupEnv"/>
+        </methods>
+      </class> <!-- regiontest.VerifyDeleteFunctionality -->
+    </classes>
+  </test> <!-- Chrome(failed) -->
+</suite> <!-- Failed suite [regiontest] -->

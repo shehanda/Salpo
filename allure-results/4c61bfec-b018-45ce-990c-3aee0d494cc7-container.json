@@ -1,0 +1,1 @@
+{"uuid":"4c61bfec-b018-45ce-990c-3aee0d494cc7","name":"mobstest.VerifyDeleteFunctionality","start":1527072346239,"stop":1527072353662,"children":["1660263c-44c1-4fea-a40e-3fdbb8b81d00"],"befores":[{"name":"setupEnv","status":"passed","stage":"finished","description":"","start":1527072346260,"stop":1527072349856}]}

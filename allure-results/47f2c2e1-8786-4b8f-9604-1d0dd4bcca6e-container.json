@@ -1,0 +1,1 @@
+{"uuid":"47f2c2e1-8786-4b8f-9604-1d0dd4bcca6e","name":"Chrome","start":1526880480123,"stop":1526880535793,"children":["d652f883-c2ea-4d8a-bd47-516dfa2e7df5"],"afters":[{"name":"quit","status":"passed","stage":"finished","description":"","start":1526880535015,"stop":1526880535776}]}

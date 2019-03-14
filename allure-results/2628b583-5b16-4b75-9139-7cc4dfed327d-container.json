@@ -1,0 +1,1 @@
+{"uuid":"2628b583-5b16-4b75-9139-7cc4dfed327d","name":"regiontest.VerifyDeleteFunctionality","start":1526997525936,"stop":1526997532748,"children":["d3a9f701-eb41-40d7-9972-5cc8521a6b2a"],"befores":[{"name":"setupEnv","status":"passed","stage":"finished","description":"","start":1526997525959,"stop":1526997529037}]}

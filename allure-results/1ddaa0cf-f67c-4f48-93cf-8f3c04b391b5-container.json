@@ -1,0 +1,1 @@
+{"uuid":"1ddaa0cf-f67c-4f48-93cf-8f3c04b391b5","name":"regiontest.VerifyCopyFunctionality","start":1526989964153,"stop":1526989972199,"children":["7915eaa1-63be-4f3d-a12e-beb5b7dc14a1"],"befores":[{"name":"setupEnv","status":"passed","stage":"finished","description":"","start":1526989964178,"stop":1526989967425}]}

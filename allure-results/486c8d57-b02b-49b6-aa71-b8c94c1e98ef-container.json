@@ -1,0 +1,1 @@
+{"uuid":"486c8d57-b02b-49b6-aa71-b8c94c1e98ef","name":"fatestest.VerifyCopyFunctionality","start":1527065817767,"stop":1527065824138,"children":["f423fabd-1ff9-4618-85b6-52fa8af2d282"],"befores":[{"name":"setupEnv","status":"passed","stage":"finished","description":"","start":1527065817793,"stop":1527065821044}]}

@@ -1,0 +1,1 @@
+{"uuid":"f36c8910-fe56-4e52-8b73-4bacef101a43","name":"Salpo.VerifySalpoNavigation","start":1552473747429,"stop":1552473768689,"children":["e7663081-1d9b-4874-b5b0-d955a8647312"],"befores":[{"name":"setupEnv","status":"passed","stage":"finished","description":"","start":1552473747460,"stop":1552473751772}]}

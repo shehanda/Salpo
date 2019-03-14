@@ -1,0 +1,1 @@
+{"uuid":"2ffea6ed-0f27-4127-8a32-d50e88689f64","name":"mobstest.VerifyAddFunctionality","start":1527071400702,"stop":1527071410151,"children":["f0f21a4c-dd31-46cd-9dd0-63ab818bc770"],"befores":[{"name":"setupEnv","status":"passed","stage":"finished","description":"","start":1527071400727,"stop":1527071404353}]}

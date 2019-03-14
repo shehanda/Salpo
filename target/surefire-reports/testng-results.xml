@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="grouptest" duration-ms="65527" started-at="2019-03-14T06:56:00Z" finished-at="2019-03-14T06:57:06Z">
+    <groups>
+    </groups>
+    <test name="Chrome" duration-ms="65527" started-at="2019-03-14T06:56:00Z" finished-at="2019-03-14T06:57:06Z">
+      <class name="Salpo.VerifySearchResults">
+        <test-method status="PASS" signature="setupEnv(java.lang.String)[pri:0, instance:Salpo.VerifySearchResults@784b990c]" name="setupEnv" is-config="true" duration-ms="4393" started-at="2019-03-14T12:26:00Z" finished-at="2019-03-14T12:26:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupEnv -->
+        <test-method status="PASS" signature="loadUrl()[pri:0, instance:Salpo.VerifySearchResults@784b990c]" name="loadUrl" duration-ms="26885" started-at="2019-03-14T12:26:05Z" finished-at="2019-03-14T12:26:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadUrl -->
+      </class> <!-- Salpo.VerifySearchResults -->
+      <class name="Salpo.VerifyResultsNavigation">
+        <test-method status="PASS" signature="setupEnv(java.lang.String)[pri:0, instance:Salpo.VerifyResultsNavigation@48a12036]" name="setupEnv" is-config="true" duration-ms="2463" started-at="2019-03-14T12:26:32Z" finished-at="2019-03-14T12:26:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupEnv -->
+        <test-method status="PASS" signature="loadUrl()[pri:0, instance:Salpo.VerifyResultsNavigation@48a12036]" name="loadUrl" duration-ms="29337" started-at="2019-03-14T12:26:34Z" finished-at="2019-03-14T12:27:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadUrl -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:Salpo.VerifyResultsNavigation@48a12036]" name="quit" is-config="true" duration-ms="1294" started-at="2019-03-14T12:27:03Z" finished-at="2019-03-14T12:27:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:Salpo.VerifySearchResults@784b990c]" name="quit" is-config="true" duration-ms="970" started-at="2019-03-14T12:27:05Z" finished-at="2019-03-14T12:27:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- Salpo.VerifyResultsNavigation -->
+    </test> <!-- Chrome -->
+  </suite> <!-- grouptest -->
+</testng-results>
